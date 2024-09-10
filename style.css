@@ -32,3 +32,12 @@ body {
 .square:hover {
   transition-duration: 0s;
 }
+
+h1 {
+  color: white; 
+  text-align: center;
+  font-size: 2em;
+  width: 100%;
+  position: absolute;
+  top: 20px; 
+}
